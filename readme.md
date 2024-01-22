@@ -1,6 +1,6 @@
 # Official code for Prompt-Engineering for Open-Source LLMs
 
-This is a collaboration between Lamini and Deeplearning.ai. Taught by Sharon Zhou.
+This is a collaboration between [Lamini](https://lamini.ai/) and [Deeplearning.ai](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/). Taught by [Sharon Zhou]().
 
 ### Lamini API key (free)
 Navigate [here](https://app.lamini.ai/) to copy your key. 
