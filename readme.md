@@ -10,7 +10,7 @@ OK if you want more, [let us know](https://www.lamini.ai/contact). Particularly 
 
 ### Other resources
 
-- [Fast RAG](https://github.com/lamini-ai/fast-rag): RAG in 80 lines of code. Fast, simple, easy. 80% of what you need. RAG is a form of prompt-engineering.
+- [Simple RAG](https://github.com/lamini-ai/simple-rag): RAG in 80 lines of code. Fast, simple, easy. 80% of what you need. RAG is a form of prompt-engineering.
 
 - [Lamini SDK](https://github.com/lamini-ai/lamini-sdk/tree/main)
 
