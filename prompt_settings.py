@@ -4,7 +4,7 @@ from lamini import Lamini
 # Mistral 7B
 # 
 
-llm = Lamini(model_name="mistralai/Mistral-7B-Instruct-v0.2")
+llm = Lamini(model_name="mistralai/Mistral-7B-Instruct-v0.1")
 
 prompts = [
     "Given the fact that I'm drinking green juice, am I healthy?",
